@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">I'm Spawin ✌️😎 </h1>
+<hr>
+
+For the rest be patient 🛠️
 
 <!--
 **Spawin/Spawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flutter,django,symfony,firebase,c,cs,cpp,php,java,js,css,html" />
+  </a>
+</p>
+
+<p align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Spawin&theme=tokyonight&show_icons=true">
+</p>
