@@ -1,7 +1,6 @@
 <h1 align="center">I'm Spawin ✌️😎 </h1>
 <hr>
-
-For the rest be patient 🛠️
+<h3 align="center">For the rest be patient 🛠️</h3>
 
 <!--
 **Spawin/Spawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
